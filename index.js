@@ -32,6 +32,7 @@ window.onload = function(){
     if (mobile) {
         if (confirm("Visit this on a Computer for Better View")) {
             close();
+            
         }              
     }
 }
