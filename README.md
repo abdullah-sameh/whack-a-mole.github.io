@@ -2,7 +2,7 @@
 
 ## **This is a challenge from javascript30.** 
 
-### Website Link:
+### live demo:
 >https://abdullah-sameh.github.io/whack-a-mole.github.io/
 
 ### The link of challenge website:
